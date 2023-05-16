@@ -49,11 +49,23 @@ ul {
     width: 55%;
 }
 
+footer {
+  text-align: center;
+  background: url("bg.jpg");
+  padding: 40px 0;   
+}
+
+.copyright {
+  color: #FFFFFF;
+  font-size: 13px;
+  margin: 20px 0 0;
+}
+
 .neon-bt {
 
     position: relative;
     display: inline-block;
-    padding: 10px 820px;
+    padding: 10px 840px;
     color: #03e9f4;
     font-size: 16px;
     text-decoration: none;
